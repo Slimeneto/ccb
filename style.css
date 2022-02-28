@@ -1,0 +1,114 @@
+/* Helper Styles: Do not Delete */
+body {
+	margin:  0;
+	padding:  0;
+	box-sizing:  border-box;
+	text-align: center;
+	background-color: gray;
+
+}
+
+/* Put your CSS Styles Below this Line */
+
+h1 {
+font-family: PT serif Caption;
+}
+
+h2 {
+font-family: PT serif Caption;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+font-family: PT serif Caption;
+}
+
+.logo {
+	max-width: 250px;
+}
+
+
+nav ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	margin:  0 auto;
+	border: 5px solid #979797;
+	width:  60%;
+}
+
+nav ul li {
+	font-family: PT serif Caption;
+	margin: 0 25px;
+}
+
+nav ul li a {
+
+}
+.Bites{
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
+.coffee{
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
+.size{
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
+.about-image {
+	margin: 25px auto;
+	width: 60%;
+}
+
+.about {
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
+
+.location {
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
+.specials-section {
+	display: flex;
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.specials-section img {
+	width:  50%;
+}
+.specials {
+	border: 5px solid #979797;
+	margin: 25px 0 25px 5%;
+	width: 45%;
+}
+.contacts {
+	border: 5px solid #979797;
+	margin: 25px auto;
+	width: 60%;
+}
